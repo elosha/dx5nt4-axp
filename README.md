@@ -1,5 +1,7 @@
-# Unofficial DirectX 5.0 for Windows NT 4.0 (AXP)
-This is DirectX 5 for Windows NT 4.0 on **DEC Alpha architecture computers**.
+# Unofficial DirectX 5 for Windows NT 4 (AXP)
+This is DirectX 5.0 for Windows NT 4.0 on **DEC Alpha architecture computers**.
+
+<img src="axp.png" alt="AXP Logo" width="128"/>
 
 ## Prerequisites
 - Windows NT 4.0 Service Pack 3 or higher
