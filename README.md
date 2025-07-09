@@ -15,7 +15,7 @@ The goal is to run old DirectX-based software (i.e. games designed for Windows 9
 
 ## References
 - Inspired by *rairii*
-- Files from NT5 beta 1 (build 1671)
+- Files from NT 5 beta 1 (build 1671)
 
 ## Caution
 This is _not_ for x86/i386 architecture computers. It will not work and break your system, look out for good old DX5NT4.ZIP instead.
